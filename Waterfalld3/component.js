@@ -114,12 +114,19 @@ function createChart(){
       .attr("height", y.bandwidth());
 
       // add labels.
-          
-    barGroup.append("text")
+      //barGroup.append("text")
+    barGroup.filter(function(d) { return d.class != "negative" }).append("text")          
     .attr("class","datalabel")
     .attr("x", function(d) { return x(d.end) + 5; })
     .attr("y", function(d) { return y(d.name)+(y.bandwidth()/2)+3; })
     .text(function(d) { return (d.end - d.start);});
+
+    //datalabels for negative values
+    barGroup.filter(function(d) { return d.class === "negative" }).append("text")          
+    .attr("class","datalabel")
+    .attr("x", function(d) { return x(d.end)-15; })
+    .attr("y", function(d) { return y(d.name)+(y.bandwidth()/2)+3; })
+    .text(function(d) { return Math.abs(d.end - d.start);});
 
     //add connector lines between bars - for positive values
     //filter(function(d) { return d.class != "negative" }).
