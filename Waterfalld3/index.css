@@ -1,7 +1,6 @@
+.tick line {display: none;}
 
-
-/* .tick text {padding-right: 20px;} 
-.tick line {display: none;}*/
+/* .tick text {padding-right: 20px;} */
 /* .bar {
   fill: #bebebe;
 } */
@@ -11,7 +10,7 @@
   font-size: 12px;
   fill: black;
 } */
-.tick line {display: none;}
+
 .positive{
   fill: #bebebe;
 }
@@ -26,6 +25,6 @@
 }
 
 .connector {
-  stroke: #808080;
-  stroke-width: 1;
+  stroke: black;
+  stroke-width: 2;
 }

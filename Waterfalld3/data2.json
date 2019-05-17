@@ -1,0 +1,86 @@
+data2 = [
+  {
+    "Year": 2015,
+    "Group": "Sales Revenue",
+    "Source": "Licences",
+    "value": 896
+  },
+  {
+    "Year": 2015,
+    "Group": "Sales Revenue",
+    "Source": "Consulting",
+    "value": 90
+  },
+  {
+    "Year": 2015,
+    "Group": "Sales Revenue",
+    "Source": "Maintenance",
+    "value": 10
+  },
+  {
+    "Year": 2015,
+    "Group": "Sales Revenue",
+    "Source": "Other Revenue",
+    "value": 65
+  },
+  {
+    "Year": 2015,
+    "Group": "Operating Expenses",
+    "Source": "Other op.income",
+    "value": 17
+  },
+  {
+    "Year": 2015,
+    "Group": "Operating Expenses",
+    "Source": "Purchases",
+    "value": -379
+  },
+  {
+    "Year": 2015,
+    "Group": "Operating Expenses",
+    "Source": "Material Exp",
+    "value": -54
+  },
+  {
+    "Year": 2015,
+    "Group": "Operating Expenses",
+    "Source": "Personnel Exp",
+    "value": -127
+  },
+  {
+    "Year": 2015,
+    "Group": "Operating Expenses",
+    "Source": "Amortization",
+    "value": -40
+  },
+  {
+    "Year": 2015,
+    "Group": "Operating Expenses",
+    "Source": "Other op.expenses",
+    "value": -152
+  },
+  {
+    "Year": 2015,
+    "Group": "Result before Tax",
+    "Source": "Investment income",
+    "value": 53
+  },
+  {
+    "Year": 2015,
+    "Group": "Result before Tax",
+    "Source": "Financial income",
+    "value": 66
+  },
+  {
+    "Year": 2015,
+    "Group": "Result after Tax",
+    "Source": "Income Tax",
+    "value": -111
+  },
+  {
+    "Year": 2015,
+    "Group": "Group Result",
+    "Source": "Profit to other interests",
+    "value": 55
+  }
+];

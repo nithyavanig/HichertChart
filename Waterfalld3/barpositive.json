@@ -1,0 +1,138 @@
+barpositive = [
+    [
+      {
+        "name": "Software revenue",
+        "Measure":"PY",
+        "value": 265000000,
+        "class": "pos"
+      },
+      {
+        "name": "Support revenue",
+        "Measure":"PY",
+        "value": 87000000  ,
+        "class": "pos"    
+      },
+      {
+        "name": "Consulting revenue",
+        "Measure":"PY",
+        "value": 121000000 ,
+        "class": "pos"     
+      },
+      {
+        "name": "COGS",
+        "Measure":"PY",
+        "value": 122000000   ,
+        "class": "pos"   
+      },
+      {
+        "name": "Research and development expenses",
+        "Measure":"PY",
+        "value": 78000000      ,
+        "class": "pos"
+      },
+      {
+        "name": "Selling and general administrative expenses",
+        "Measure":"PY",
+        "value": 97000000  ,
+        "class": "pos"    
+      },
+      {
+        "name": "Other operating income",
+        "Measure":"PY",
+        "value": 9000000 ,
+        "class": "pos"     
+      },
+      {
+        "name": "Other operating expenses",
+        "Measure":"PY",
+        "value": 11000000 ,
+        "class": "pos"     
+      },
+      {
+        "name": "Other financial income, net",
+        "Measure":"PY",
+        "value": 3000000    ,
+        "class": "pos"  
+      },
+      {
+        "name": "Income tax expenses",
+        "Measure":"PY",
+        "value": 23000000   ,
+        "class": "pos"   
+      },
+      {
+        "name": "Income from discontinued operations",
+        "Measure":"PY",
+        "value": 6000000    ,
+        "class": "pos"  
+      }
+    ],
+    [
+      {
+        "name": "Software revenue",
+        "Measure":"AC",
+        "value": 278000000   ,
+        "class": "pos"   
+      },
+      {
+        "name": "Support revenue",
+        "Measure":"AC",
+        "value": 90000000   ,
+        "class": "pos"   
+      },
+      {
+        "name": "Consulting revenue",
+        "Measure":"AC",
+        "value": 128000000   ,
+        "class": "pos"   
+      },
+      {
+        "name": "COGS",
+        "Measure":"AC",
+        "value": 128000000 ,
+        "class": "pos"     
+      },
+      {
+        "name": "Research and development expenses",
+        "Measure":"AC",
+        "value": 104000000  ,
+        "class": "pos"    
+      },
+      {
+        "name": "Selling and general administrative expenses",
+        "Measure":"AC",
+        "value": 102000000   ,
+        "class": "pos"   
+      },
+      {
+        "name": "Other operating income",
+        "Measure":"AC",
+        "value": 11000000     ,
+        "class": "pos" 
+      },
+      {
+        "name": "Other operating expenses",
+        "Measure":"AC",
+        "value": 8000000      ,
+        "class": "pos"
+      },
+      {
+        "name": "Other financial income, net",
+        "Measure":"AC",
+        "value": 5000000   ,
+        "class": "pos"   
+      },
+      {
+        "name": "Income tax expenses",
+        "Measure":"AC",
+        "value": 27000000  ,
+        "class": "pos"    
+      },
+      {
+        "name": "Income from discontinued operations",
+        "Measure":"AC",
+        "value": 8000000    ,
+        "class": "pos" 
+      }
+    ]
+  ];
